@@ -1,5 +1,5 @@
 
-# SEC
+# simple websever
 
 This repository contains the source code for the SEC college web page.
 
@@ -16,9 +16,36 @@ The web page showcases information about our college, including the college name
 - Link to saveetha.ac.in
 - Text color is blue
 
-## Getting Started
+## code 1
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>SEC</title>
+  <style>
+    body {
+      background-color: green;
+      color: blue;
+    }
+  </style>
+</head>
+<body>
+  <h1>Saveetha Engineering College</h1>
+  <ul>
+    <li>EEE</li>
+    <li>ECE</li>
+    <li>CSE</li>
+  </ul>
+  <a href="https://saveetha.ac.in">Visit Saveetha.ac.in</a>
+</body>
+</html>
+```
+## output
 
-To view the web page locally, simply open the `index.html` file in a web browser.
+
+![Screenshot 2023-05-08 202853](https://user-images.githubusercontent.com/128461833/236858645-7344d09b-92eb-47b3-9bf6-0d8eb852916d.png)
+
+
 
 ## Contributing
 
