@@ -45,6 +45,10 @@ The web page showcases information about our college, including the college name
 
 ![Screenshot 2023-05-08 202853](https://user-images.githubusercontent.com/128461833/236858645-7344d09b-92eb-47b3-9bf6-0d8eb852916d.png)
 
+## result
+
+file:///C:/Users/SEC/Desktop/simple%20website/index.html
+
 
 
 ## Contributing
