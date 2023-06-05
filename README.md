@@ -47,7 +47,7 @@ The web page showcases information about our college, including the college name
 
 ## result
 
-file:///C:/Users/SEC/Desktop/simple%20website/index.html
+the simple website is developed
 
 
 
